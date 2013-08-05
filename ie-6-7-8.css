@@ -1,0 +1,18 @@
+/* MetroDNA Fix - Fallback pour IE 6-7-8 : Fait apparaître le texte à la place du symbole */
+/* Ce fichier CSS est à intégrer avec un commentaire conditionnel dans votre html, après vos fichiers css principaux de cette manière :
+
+<!--[if IE 6]>
+<link href="css/ie-6-7-8.css" rel="stylesheet" type="text/css" media="all"/>
+<![endif]-->
+<!--[if IE 7]>
+<link href="css/ie-6-7-8.css" rel="stylesheet" type="text/css" media="all"/>
+<![endif]-->
+<!--[if IE 8]>
+<link href="css/ie-6-7-8.css" rel="stylesheet" type="text/css" media="all"/>
+<![endif]-->
+*/
+
+.metro, .tram, .transilien, .rer {
+  text-indent: 0px;
+  width:auto;
+}

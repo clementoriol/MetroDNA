@@ -1,0 +1,6 @@
+<svg version="1.1" id="ligne1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1000px" height="1000px" viewBox="0 0 1000 1000" enable-background="new 0 0 1000 1000" xml:space="preserve">
+<circle fill="#FFFFFF" stroke="#0064AD" stroke-width="70" stroke-miterlimit="10" cx="500" cy="499" r="465"/>
+<path fill="#0064AD" d="M457.6,752.58V355.51c-17.219,13.562-67.917,39.982-86.583,49.395l-26.457,13.455l-34.248-77.21
+	l30.763-14.291c58.646-27.957,112.97-61.524,135.87-79.441h88.064v505.16H457.609"/>
+</svg>
