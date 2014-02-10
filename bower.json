@@ -1,0 +1,24 @@
+{
+  "name": "MetroDNA",
+  "version": "0.0.0",
+  "homepage": "http://www.clementoriol.com/metrodna",
+  "authors": [
+    "Clément Oriol <clement@clementoriol.com>"
+  ],
+  "description": "MetroDNA est une librairie de symboles de Transports en Commun Parisiens (RATP - SNCF) faciles à intégrer à vos sites.",
+  "main": "metrodna.min.css",
+  "keywords": [
+    "metro",
+    "train",
+    "symbols",
+    "public",
+    "transport"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
