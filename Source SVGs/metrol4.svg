@@ -1,7 +1,1 @@
-<svg version="1.1" id="ligne1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="1000px" height="1000px" viewBox="0 0 1000 1000" enable-background="new 0 0 1000 1000" xml:space="preserve">
-<circle id="circlemetro" fill="#BE418D" cx="500" cy="500" r="500"/>
-<path id="path7502" fill="#FFFFFF" d="M672.79,653.15v-82.556h-65.314v-337.16h-135.1l-205.82,321.2v98.502h238.839v110.21h102.07
-	V653.147h65.32 M505.396,570.587h-147.99l108.121-169.76c20.926-33.113,36.071-65.387,38.227-74.314h1.641v244.07L505.396,570.587z"
-	/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000"><circle fill="#BE418D" cx="500" cy="500" r="500"/><path fill="#fff" d="M672.79 653.15v-82.556h-65.314v-337.16h-135.1l-205.82 321.2v98.502h238.839v110.21h102.07v-110.199h65.32m-167.389-82.56h-147.99l108.121-169.76c20.926-33.113 36.071-65.387 38.227-74.314h1.641v244.07l.001.004z"/></svg>

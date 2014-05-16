@@ -1,7 +1,1 @@
-<svg version="1.1" id="ligne1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="1000px" height="1000px" viewBox="0 0 1000 1000" enable-background="new 0 0 1000 1000" xml:space="preserve">
-<circle fill="#FFFFFF" stroke="#E9002D" stroke-width="70" stroke-miterlimit="10" cx="500" cy="500" r="465"/>
-<path id="path7731" fill="#EC222C" d="M268.36,714.66l112.9-0.113l30.027-90.834h176.859l29.74,90.834l104.25,0.113L552.907,235.69
-	h-114.58l-169.97,478.97 M436.987,544.8l49.561-152.689c6.65-20.414,12.101-45.148,12.101-60.06l1.565-0.151
-	c-0.076,16.245,5.851,41.171,12.137,60.438l49.142,152.311l-124.51,0.149L436.987,544.8z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000"><circle fill="#fff" stroke="#E9002D" stroke-width="70" stroke-miterlimit="10" cx="500" cy="500" r="465"/><path fill="#EC222C" d="M268.36 714.66l112.9-.113 30.027-90.834h176.859l29.74 90.834 104.25.113-169.229-478.97h-114.58l-169.97 478.97m168.63-169.86l49.561-152.689c6.65-20.414 12.101-45.148 12.101-60.06l1.565-.151c-.076 16.245 5.851 41.171 12.137 60.438l49.142 152.311-124.51.149.004.002z"/></svg>

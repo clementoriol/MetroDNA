@@ -1,5 +1,1 @@
-<svg version="1.1" id="ligne1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="1000px" height="1000px" viewBox="0 0 1000 1000" enable-background="new 0 0 1000 1000" xml:space="preserve">
-<circle fill="#FFFFFF" stroke="#FBC525" stroke-width="70" stroke-miterlimit="10" cx="500" cy="500" r="465"/>
-<path id="path2750" fill="#FCC322" d="m 504.06294,763.56028 0,-105.63165 -214.84365,0 0,-88.086 227.7343,-333.36564 84.50535,0 0,333.00764 65.169,0 0,88.444 -65.169,0 0,105.63165 -97.396,0 z m 0,-194.07565 0,-179.39435 -120.67065,179.39435 120.67065,0 z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000"><circle fill="#fff" stroke="#FBC525" stroke-width="70" stroke-miterlimit="10" cx="500" cy="500" r="465"/><path fill="#FCC322" d="M504.063 763.56v-105.632h-214.844v-88.086l227.734-333.366h84.505v333.008h65.169v88.444h-65.169v105.632h-97.396zm0-194.076v-179.394l-120.671 179.394h120.671z"/></svg>
