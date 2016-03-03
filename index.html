@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>MetroDNA</title>
+        <meta charset="utf-8">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" type="text/css" href="./metrodna.min.css">
+
+        <style type="text/css">
+          ul, li { display: inline-block; list-style: none; }
+        </style>
+    </head>
+    <body>
+      <ul></ul>
+
+      <script>
+        var ul = document.querySelector('ul'),
+            li, classes;
+
+        var metrodna = document.styleSheets[0],
+            rules    = [].slice.call(metrodna.rules);
+
+        rules = rules.filter(function(rule) {
+          return rule.selectorText.indexOf('ligne') != rule.selectorText.indexOf('symbole');
+        });
+
+        rules.forEach(function(rule) {
+          classes = rule.selectorText.replace(/::before/g, '');
+          classes = classes.substr(1).split('.');
+
+          li = document.createElement('li');
+            li.className = classes.join(' ');
+
+          ul.appendChild(li);
+        })
+
+      </script>
+    </body>
+</html>
