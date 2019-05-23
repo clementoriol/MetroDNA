@@ -1,0 +1,27 @@
+{
+  "name": "metrodna",
+  "version": "1.0.0",
+  "description": "MetroDNA est une librairie de symboles de Transports en Commun Parisiens (RATP - SNCF)",
+  "main": "metrodna.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://clementoriol@github.com/clementoriol/MetroDNA.git"
+  },
+  "author": "Clément Oriol",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clementoriol/MetroDNA/issues"
+  },
+  "homepage": "https://github.com/clementoriol/MetroDNA#readme",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  },
+  "scripts": {
+    "sass:min": "node-sass metrodna.scss --output-style compressed > metrodna.min.css",
+    "sass:css": "node-sass metrodna.scss --output-style expanded > metrodna.css",
+    "sass": "npm run sass:min && npm run sass:css"
+  }
+}
